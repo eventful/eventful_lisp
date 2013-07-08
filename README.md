@@ -1,4 +1,4 @@
 eventful_list
 =============
 
-List Eventful API
+Lisp Eventful API
